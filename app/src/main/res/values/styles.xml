@@ -17,7 +17,7 @@
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
-    <style name="Fairport" parent="AppTheme" >
+    <style name="Fairport" parent="AppTheme">
         <item name="android:statusBarColor">?attr/colorPrimary</item>
         <item name="colorPrimary">@color/colorPrimary</item>
     </style>

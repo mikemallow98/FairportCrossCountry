@@ -36,6 +36,8 @@
             android:background="#FFFFFF"
             card_view:cardCornerRadius="16dp"
             android:id="@+id/cardView"
+            android:clickable="true"
+            android:onClick="rosterCardManager"
 
 
             android:layout_alignParentTop="true"
@@ -109,7 +111,7 @@
                 android:layout_alignParentTop="true"
                 android:layout_centerHorizontal="true" />
 
-            
+
         </RelativeLayout>
 
     </android.support.v7.widget.CardView>
