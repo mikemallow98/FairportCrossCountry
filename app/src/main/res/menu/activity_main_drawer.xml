@@ -10,7 +10,7 @@
             android:title="Roster"
             />
         <item
-            android:id="@+id/nav_gallery"
+            android:id="@+id/coaches"
             android:icon="@drawable/ic_menu_gallery"
             android:title="Coaches"
             />

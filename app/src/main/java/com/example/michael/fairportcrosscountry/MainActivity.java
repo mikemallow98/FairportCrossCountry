@@ -70,18 +70,26 @@ public class MainActivity extends AppCompatActivity
     @SuppressWarnings("StatementWithEmptyBody")
     @Override
     public boolean onNavigationItemSelected(MenuItem item) {
+        Intent intent = null;
         // Handle navigation view item clicks here.
         int id = item.getItemId();
 
         if (id == R.id.roster) {
-            rosterCardManager();
-        } else if (id == R.id.nav_gallery) {
+            intent = new Intent(MainActivity.this, Roster.class);
+
+        } else if (id == R.id.coaches) {
+            intent = new Intent(MainActivity.this, Coaches.class);
 
         } else if (id == R.id.nav_slideshow) {
 
         } else if (id == R.id.nav_manage) {
 
-        } else{}
+        } else{
+
+        }
+        if(intent != null){
+            startActivity(intent);
+        }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
@@ -89,11 +97,6 @@ public class MainActivity extends AppCompatActivity
     }
 
     public void rosterCardManager(View view){
-        Intent intent = new Intent(MainActivity.this, Roster.class);
-        startActivity(intent);
-    }
-
-    public void rosterCardManager(){
         Intent intent = new Intent(MainActivity.this, Roster.class);
         startActivity(intent);
     }
