@@ -8,9 +8,11 @@
     <string name="title_activity_roster">Roster</string>
 
 
-    <string name="Ben_Bulkeley"> Ben Bulkeley | Junior</string>
+    <string name="Ben_Bulkeley"> "Ben Bulkeley \t" "Junior"</string>
 
-    <string name="svl">Coach Sean Van Laeken is the head boys coach. </string>
+    <string name="svl">"Coach Sean Van Laeken is the head boys coach. He has been attributed to many"
+        "famous quotes, including \"Touch that Man!\", \"Don't lose the farm!\", and"
+        "\"Mallow, at your wedding I will be your best man because I am THE best man.\" "</string>
 
     <string name="large_text">
         "Material is the metaphor.\n\n"
