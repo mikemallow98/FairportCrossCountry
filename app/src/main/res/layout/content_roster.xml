@@ -8,6 +8,20 @@
     tools:context="com.example.michael.fairportcrosscountry.Roster"
     tools:showIn="@layout/activity_roster">
 
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/roster_scroll">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lin_lay_roster" >
+    </LinearLayout>
+
+</ScrollView>
+
+
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

@@ -14,7 +14,7 @@
         "famous quotes, including \"Touch that Man!\", \"Don't lose the farm!\", and"
         "\"Mallow, at your wedding I will be your best man because I am THE best man.\" "</string>
 
-    <string name="outdoor_400_athlete">"Jason Provio"</string>
+    <string name="outdoor_400_athlete">"Jason Provio\t"</string>
     <string name="outdoor_400_time">"48.93"</string>
     <string name="indoor_600_athlete">"Ben Bulkeley"</string>
     <string name="indoor_600_time">"1:22.89"</string>
