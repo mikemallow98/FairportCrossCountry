@@ -15,7 +15,7 @@
             android:title="Coaches"
             />
         <item
-            android:id="@+id/nav_slideshow"
+            android:id="@+id/school_records"
             android:icon="@drawable/ic_menu_slideshow"
             android:title="School records"
            />
@@ -25,7 +25,7 @@
             android:title="Conversion"
             />
         <item
-            android:id="@+id/nav_media"
+            android:id="@+id/social_media"
             android:icon="@drawable/ic_menu_manage"
             android:title="Social Media"
             />

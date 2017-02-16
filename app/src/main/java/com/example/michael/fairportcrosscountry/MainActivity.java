@@ -76,15 +76,13 @@ public class MainActivity extends AppCompatActivity
 
         if (id == R.id.roster) {
             intent = new Intent(MainActivity.this, Roster.class);
-
         } else if (id == R.id.coaches) {
             intent = new Intent(MainActivity.this, Coaches.class);
-
-        } else if (id == R.id.nav_slideshow) {
-
+        } else if (id == R.id.school_records) {
+            intent = new Intent(MainActivity.this, SchoolRecords.class);
         } else if (id == R.id.nav_manage) {
 
-        } else{
+        } else if(id == R.id.social_media){
 
         }
         if(intent != null){

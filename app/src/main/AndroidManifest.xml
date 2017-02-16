@@ -25,6 +25,10 @@
         <activity
             android:name=".Coaches"
             android:label="@string/title_activity_coaches"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SchoolRecords"
+            android:label="@string/title_activity_school_records"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 

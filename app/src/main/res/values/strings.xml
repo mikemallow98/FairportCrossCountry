@@ -13,8 +13,40 @@
     <string name="svl">"Coach Sean Van Laeken is the head boys coach. He has been attributed to many"
         "famous quotes, including \"Touch that Man!\", \"Don't lose the farm!\", and"
         "\"Mallow, at your wedding I will be your best man because I am THE best man.\" "</string>
-    <string name="schoolRecords">"\t\t\t Indoor Records\n"
-    "600m: 1:22.89</string>
+
+    <string name="outdoor_400_athlete">"Jason Provio"</string>
+    <string name="outdoor_400_time">"48.93"</string>
+    <string name="indoor_600_athlete">"Ben Bulkeley"</string>
+    <string name="indoor_600_time">"1:22.89"</string>
+    <string name="outdoor_800_athlete">"Mike Mallow"</string>
+    <string name="outdoor_800_time">"1:52.25"</string>
+    <string name="indoor_1000_athlete">"Ben Bulkeley"</string>
+    <string name="indoor_1000_time">"2:29.38"</string>
+    <string name="indoor_1600_athlete">"Ben Bulkeley"</string>
+    <string name="indoor_1600_time">"4:19.19"</string>
+    <string name="outdoor_1600_athlete">"Brian Lilly"</string>
+    <string name="outdoor_1600_time">"4:14.47"</string>
+    <string name="indoor_mile_athlete">"Dan Predmore"</string>
+    <string name="indoor_mile_time">"4:13.80"</string>
+    <string name="indoor_3000_athlete">"Nate Ruder"</string>
+    <string name="indoor_3000_time">"8:59.70"</string>
+    <string name="outdoor_3000_athlete">"Nate Ruder"</string>
+    <string name="outdoor_3000_time">"8:35.40"</string>
+    <string name="outdoor_steeple_athlete">"Pat DuPont"</string>
+    <string name="outdoor_steeple_time">"9:07.02"</string>
+    <string name="indoor_3200_athlete">"Pat DuPont"</string>
+    <string name="indoor_3200_time">"9:27.5"</string>
+    <string name="outdoor_3200_athlete">"Pat DuPont"</string>
+    <string name="outdoor_3200_time">"9:07.56"</string>
+    <string name="indoor_1600relay_athlete">"Gaffney, Goosey, Seavey, Reif"</string>
+    <string name="indoor_1600relay_time">"3:25.60"</string>
+    <string name="outdoor_1600relay_athlete">"Cicotta, Hall, Reif, Bernard"</string>
+    <string name="outdoor_1600relay_time">"3:31.45"</string>
+    <string name="indoor_3200relay_athlete">"Bulkeley, Orcutt, Markle, Mallow"</string>
+    <string name="indoor_3200relay_time">"8:03.96"</string>
+
+
+
 
     <string name="large_text">
         "Material is the metaphor.\n\n"
